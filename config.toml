@@ -1,0 +1,4 @@
+ctrl_n_shortcuts = true
+enter_accept = true
+filter_mode = "session"
+workspaces = true
