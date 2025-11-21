@@ -1,3 +1,4 @@
+auto_sync = false
 ctrl_n_shortcuts = true
 enter_accept = true
 filter_mode = "session"
